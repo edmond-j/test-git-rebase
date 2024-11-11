@@ -1,7 +1,4 @@
 init
 commit b
-commit c
-commit d
-conmit e
-commit f
-commit g, com1, com2, com3
+add/1
+add/2
